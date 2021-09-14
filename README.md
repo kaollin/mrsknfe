@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mrsknf
+- 👋 Hi, I’m @mrsknife
 - 👀 I’m interested in leraning how to code
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on don't know yet
 - 📫 How to reach me lorenbcosta@gmail.com 
 
 <!---
